@@ -14,3 +14,4 @@
 - Regularly back up the website to prevent data loss.
 - Minimize the use of third-party plugins to enhance security.
 - Conduct regular security audits to identify vulnerabilities.
+- Create a sitemap to improve search engine indexing.
