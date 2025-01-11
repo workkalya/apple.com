@@ -15,3 +15,4 @@
 - Minimize the use of third-party plugins to enhance security.
 - Conduct regular security audits to identify vulnerabilities.
 - Create a sitemap to improve search engine indexing.
+- fixes in green mode
